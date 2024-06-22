@@ -1,5 +1,6 @@
+// eu-west-1/main.tf
 terraform {
-  source = "../terraform/aurora"
+  source = "../../terraform/aurora"
 }
 
 inputs = {

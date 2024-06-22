@@ -1,0 +1,11 @@
+variable "region" {}
+variable "cluster_identifier" {}
+variable "master_username" {}
+variable "master_password" {}
+variable "database_name" {}
+variable "availability_zones" {}
+variable "instance_count" {}
+variable "instance_class" {}
+variable "db_subnet_group_name" {}
+variable "subnet_ids" {}
+variable "vpc_id" {}
